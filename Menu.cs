@@ -18,7 +18,6 @@ namespace CalculatorCShaarp
             List<String> HistoryTracker = new List<string>();
             
             bool game = true;
-            
             do
             {
                 Console.WriteLine("Choose one of the following options: " +
