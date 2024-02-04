@@ -40,7 +40,6 @@ namespace CalculatorCShaarp
                     break;
             }
         }
-
         public void gamesHistory(List<String>HistoryTracker)
         {
             foreach (var history in HistoryTracker)
